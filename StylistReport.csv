@@ -1,0 +1,6 @@
+StylistID,StylistName,BranchName,Experience,Specialties,DaysAvailable,AttendancePercentage,Leaves,StylistTurnoutPercentage,CompletedAppointments,PendingAppointments,FeedbackRatings
+5001,Dinesh,Bangalore,5years,"Haircuts, Styling, Face massage","Mon, Tue",90,2,95,68,7,4.7
+5002,Gyanu,Hyderabad,4years,"Manicures, Pedicures, Cleanup","Tue, Wed",95,1,92,55,10,4.5
+5003,Sharuk,Hyderabad,3years,"Bleach, Hair Colouring","Wed, Thu",45,3,65,72,5,4.9
+5004,Mahesh,Hyderabad,5years,"Hair Colouring, Haircuts","Mon, Tue",94,2,96,60,8,4.8
+5005,Shanu,Bangalore,5years,"Hair Spa, Makeup","Tue, Wed, Thu",55,1,75,58,6,4.6
